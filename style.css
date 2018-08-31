@@ -5,7 +5,7 @@ body{
 h1{
     font-size: 3em;
     text-align: center;
-    color: #FDFEFE ;
+    color:#2C3E50;
 }
 
 td {
@@ -73,4 +73,35 @@ footer div p {
 a {
     color: #FBFCFC ;
     text-decoration: none;
+}
+
+div img {
+    width: 100px;
+}
+
+nav{
+    background-color:#7F8C8D;
+    margin-bottom: 2%;
+}
+
+nav ul {
+    padding: 20px;
+    display: inline;
+    margin-left: 5%;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a{
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.logo-container{
+    padding: 10px;
+    display: inline;
 }
